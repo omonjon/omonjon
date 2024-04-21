@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joseangel68&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=omonjon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omonjon&" height="150" alt="activity-graph graph"  />
 </div>
 
